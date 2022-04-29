@@ -2,7 +2,7 @@ baseURL = "https://github.com/tomgraal/blog.github.io"
 title = "Free Society"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
