@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Journal d'un informaticien de campagne
     subtitle:
-      - The world’s fastest framework for building websites
+      - Réflexion sur la monde de la tech dans un monde limité
     titleColor: 
     titleShadow: true
     titleFontSize: 44
