@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - Journal d'un informaticien de campagne
+      - BLOG
     subtitle:
       - Réflexion sur la monde de la tech dans un monde limité
     titleColor: 
