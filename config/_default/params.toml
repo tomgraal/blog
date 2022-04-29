@@ -1,9 +1,9 @@
-logoText = "Zzo"
+logoText = "Le philosohe du dimanche"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Reflexions sur la tech dans no vies"
 custom_css = []
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false #https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+myname = "Vincent F."
+email = "fluchereinformatique@protonmail.com"
+whoami = "Expert Informatique et en quiche"
+bioImageUrl = "https://scontent.flyn1-1.fna.fbcdn.net/v/t1.6435-9/39174705_10214120211093004_2670981376165019648_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=o4w24Dd8W4AAX9jy3wH&tn=XmvPW82Myb4I3bMQ&_nc_ht=scontent.flyn1-1.fna&oh=00_AT8tPyumzgZfY_vCEPoMBA_B3ZO80x9GEJmdDTra4Bdu1Q&oe=6292611B"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Alpes de haute Provence, France"
+organization = "Fluchère Informatique"
+link = ""
 
 # sidebar
 enableBio = true
@@ -89,10 +89,10 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
@@ -161,18 +161,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:fluchereinformatique@protonmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/VincentFluchere"
+  twitter = "https://twitter.com/FluchereV"
+  github = "https://github.com/tomgraal"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/vincent-fluch%C3%A8re-73297b172/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
