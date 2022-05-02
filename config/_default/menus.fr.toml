@@ -1,13 +1,13 @@
 [[main]]
   identifier = "about"
-  name = "A propos"
+  name = "Infos"
   url = "about"
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archives"
-  url = "archive"
+  identifier = "tarifs"
+  name = "Tarifs"
+  url = "tarifs"
   weight = 2
 
 #[[main]]
