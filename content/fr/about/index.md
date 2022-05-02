@@ -1,6 +1,6 @@
 +++
-title = "A propos"
-description = "Information"
+title = "Informations"
+description = "Informations"
 type = "about"
 date = "2022-02-05"
 +++
@@ -41,4 +41,11 @@ Mon entreprise "Fluchère Informatique" délivre principalement les prestations 
     Administration des noms de domaine
     Administration de l'hébergement
 
+Fluchère Informatique
+SAS au capital de 1000 €
+Villaudemard 04140 SELONNET
+Siren 900 063 348
+
+mailto:fluchere.informatique@protonmail.com
+07.73.11.87.93
 
