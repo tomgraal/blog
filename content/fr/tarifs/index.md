@@ -1,9 +1,13 @@
-+++
-title = "Tarifs"
-description = "Tarifs"
-type = "tarifs"
-date = "2022-02-05"
-+++
+---
+title: "Tarifs"
+date: 2022-05-02
+description: "Tarifs pour l'année 2022"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+image: images/feature2/content.png
+---
 
 ### Tarifs 2022
 
@@ -26,6 +30,6 @@ SAS au capital de 1000 €
 Villaudemard 04140 SELONNET
 Siren 900 063 348
 
-mailto:fluchere.informatique@protonmail.com
+url= [mailto:fluchere.informatique@protonmail.com]
 07.73.11.87.93
 

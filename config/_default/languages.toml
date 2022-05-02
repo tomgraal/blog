@@ -1,12 +1,12 @@
 [fr]
-  title = "Free Society"
+  title = "Fluchère Informatique"
   languageName = "french"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/fr"
   
 [en]
-  title = "Zzossig's Blog"
+  title = "Fluchère Informatique"
   languageName = "English"
   weight = 2
   languagedir = "ltr"
