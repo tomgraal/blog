@@ -25,7 +25,7 @@ Pour les administrations et professionels, tarifs sur devis.
 
 Tous les pris sont affichés HT, la TVA est offerte lors de l’exercice 2021, TVA non applicable art. 293 B du CGI.
 
-{{< img src="/static/images/Transparent.jpg" title="Sample Image" caption="Image with title, caption, alt, ..." alt="logo" width="700px" position="center" >}}
+{{< img src="images/img/Transparent.jpg" width="700px" position="center" >}}
 
 
 Fluchère Informatique

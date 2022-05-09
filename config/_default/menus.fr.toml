@@ -16,26 +16,32 @@
 #url = "presentation"
 #weight = 3
 
-[[main]]
-  identifier = "gallery"
-  name = "Photos"
-  url = "gallery"
-  weight = 4
+#[[main]]
+  #identifier = "gallery"
+  #name = "Photos"
+  #url = "gallery"
+  #weight = 4
     
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
+#[[main]]
+  #parent = "gallery"
+  #name = "Cartoon"
+ #url = "gallery/cartoon"
 
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+#[[main]]
+#parent = "gallery"
+#name = "Photo"
+#url = "gallery/photo"
 
 [[main]]
   identifier = "posts"
   name = "Blog"
-  url = "posts"
+  url = "fr"
+  weight = 6
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "contact"
   weight = 5
 
 #[[main]]
