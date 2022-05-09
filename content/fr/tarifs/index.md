@@ -25,7 +25,8 @@ Pour les administrations et professionels, tarifs sur devis.
 
 Tous les pris sont affichés HT, la TVA est offerte lors de l’exercice 2021, TVA non applicable art. 293 B du CGI.
 
-![Logo](/static/images/MINI-rond.png)
+{{< img src="/static/images/Transparent.jpg" title="Sample Image" caption="Image with title, caption, alt, ..." alt="logo" width="700px" position="center" >}}
+
 
 Fluchère Informatique
 SAS au capital de 1000 €
