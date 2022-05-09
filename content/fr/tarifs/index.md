@@ -6,7 +6,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-image: images/feature2/content.png
+image: images/money.png
 ---
 
 ### Tarifs 2022
@@ -25,11 +25,13 @@ Pour les administrations et professionels, tarifs sur devis.
 
 Tous les pris sont affichés HT, la TVA est offerte lors de l’exercice 2021, TVA non applicable art. 293 B du CGI.
 
+![Logo](/static/images/MINI-rond.png)
+
 Fluchère Informatique
 SAS au capital de 1000 €
 Villaudemard 04140 SELONNET
 Siren 900 063 348
 
-url= [mailto:fluchere.informatique@protonmail.com]
+[fluchereinformatique@protonmail.com](mailto:fluchere.informatique@protonmail.com)
 07.73.11.87.93
 
