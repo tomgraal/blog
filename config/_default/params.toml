@@ -62,8 +62,8 @@ typeIcon = "🎯"
 # whoami
 myname = "Vincent F."
 email = "fluchereinformatique@protonmail.com"
-whoami = "Expert Informatique et en quiche"
-bioImageUrl = "https://scontent.flyn1-1.fna.fbcdn.net/v/t1.6435-9/39174705_10214120211093004_2670981376165019648_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=o4w24Dd8W4AAX9jy3wH&tn=XmvPW82Myb4I3bMQ&_nc_ht=scontent.flyn1-1.fna&oh=00_AT8tPyumzgZfY_vCEPoMBA_B3ZO80x9GEJmdDTra4Bdu1Q&oe=6292611B"
+whoami = "Expert Informatique depuis 2009"
+image= "images/whoami/avatar.jpg"
 useGravatar = false
 location = "Alpes de haute Provence, France"
 organization = "Fluchère Informatique"
