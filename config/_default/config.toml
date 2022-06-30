@@ -1,4 +1,4 @@
-baseURL = "https://tomgraal.github.io/blog/fr/"
+baseURL = "https://tomgraal.github.io/blog/"
 title = "Fluchère Informatique"
 theme = "zzo"
 
