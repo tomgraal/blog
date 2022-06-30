@@ -1,9 +1,9 @@
-baseURL = "https://tomgraal.github.io/blog/"
+baseURL = "https://tomgraal.github.io/blog/fr/"
 title = "Fluchère Informatique"
 theme = "zzo"
 
 defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70
