@@ -1,9 +1,10 @@
 logoText = "Fluchère Informatique"
 logoType = "short" # long, short
+logo = true
 description = "Reflexions sur la tech dans no vies"
 custom_css = []
 custom_js = []
-useFaviconGenerator = false #https://www.favicon-generator.org/
+useFaviconGenerator = true #https://www.favicon-generator.org/
 meta_image = ""
 themecolor = "solarized"
 
@@ -39,6 +40,7 @@ searchDistance = 100 # fuse option
 searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
 
 # body
+enableEditBtn = false
 enableBreadcrumb = true
 enableGoToTop = true
 enableWhoami = true

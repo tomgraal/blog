@@ -1,4 +1,4 @@
-baseURL = "https://tomgraal.github.io/blog/"
+baseURL = "https://www.fluchereinformatique.com"
 title = "Fluchère Informatique"
 theme = "zzo"
 
@@ -9,7 +9,7 @@ hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, All Rights Reserved to Vincent Fluchère"
 timeout = 10000
 enableEmoji = true
 paginate = 13
