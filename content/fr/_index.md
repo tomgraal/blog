@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - BLOG
+      - Fluchère Informatique
     subtitle:
       - Réflexion sur la monde de la tech dans un monde limité
     titleColor: 
