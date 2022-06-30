@@ -3,7 +3,7 @@ title = "Fluchère Informatique"
 theme = "zzo"
 
 defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 summaryLength = 70
