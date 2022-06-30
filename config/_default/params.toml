@@ -1,10 +1,11 @@
-logoText = "Fluchère Informatique"
-logoType = "short" # long, short
-description = "Reflexions sur la tech dans no vies"
-custom_css = []
-custom_js = []
-useFaviconGenerator = false 
-meta_image = ""
+logoText = "Fluchère Informatique" # Logo text that appears in the site navigation bar.
+logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
+logo = true # Logo that appears in the site navigation bar.
+description = "The Zzo theme for Hugo example site." # for SEO
+custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
+custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
+useFaviconGenerator = true # https://www.favicon-generator.org/
+languagedir = "ltr" # ltr / rtl
 themecolor = "solarized"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
