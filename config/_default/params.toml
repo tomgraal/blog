@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "Reflexions sur la tech dans no vies"
 custom_css = []
 custom_js = []
-useFaviconGenerator = true 
+useFaviconGenerator = false 
 meta_image = ""
 themecolor = "solarized"
 
